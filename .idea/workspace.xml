@@ -2,15 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890c4224-b408-4add-a389-837c455afbaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dimention_reducted.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/catering_sale.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/discretization_data.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/principal_component.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/大数据分析与挖掘实验四.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/__MACOSX/._data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/__MACOSX/data/._missing_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/__MACOSX/data/._model.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/missing_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/missing_data_processed.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/model.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/tree.pk1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/tree.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air_service_CARGO_AND_PARCELS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_passenger_air_service_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/Online_Retail.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/Online_Retail2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/[真实或伪造]伪造职位发布预测/fake_job_postings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/pe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/render.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/上海车牌拍卖价格/Shanghai license plate price - Sheet3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/电信客户流失/WA_Fn-UseC_-Telco-Customer-Churn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiyan5/standardization.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiyan5/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiyan5/text1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shoubiao/tls_client_socket_no_unencrypted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/cm_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tls_client_socket_no_unencrypted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homeword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homeword.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大数据分析与挖掘实验指导书-2020春-实验三.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/大数据分析与挖掘实验指导书-2020春-实验三.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大数据分析与挖掘实验指导书-2020春-实验二.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/大数据分析与挖掘实验指导书-2020春-实验二.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dimention_reducted.xls" beforeDir="false" afterPath="$PROJECT_DIR$/dimention_reducted.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test14.py" beforeDir="false" afterPath="$PROJECT_DIR$/test14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +75,9 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/doc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/qimo" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -61,16 +90,19 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\homeword\qimo" />
       <recent name="D:\PycharmProjects\homeword\doc" />
       <recent name="D:\PycharmProjects\homeword" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PycharmProjects\homeword\doc" />
+      <recent name="D:\PycharmProjects\homeword\qimo" />
+      <recent name="D:\PycharmProjects\homeword\shoubiao" />
       <recent name="D:\PycharmProjects\homeword" />
+      <recent name="D:\PycharmProjects\homeword\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test14">
-    <configuration name="test10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.russian_air">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="homeword" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,12 +110,75 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homeword" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qimo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qimo/pe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="russian_air" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homeword" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homeword" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shiyan5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiyan5/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="text1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homeword" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +195,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shiyan5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiyan5/text1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tls_client_socket_no_unencrypted" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="homeword" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,51 +222,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test13" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homeword" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test13.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test14" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homeword" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tls_client_socket_no_unencrypted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test14" />
-        <item itemvalue="Python.test13" />
-        <item itemvalue="Python.test12" />
-        <item itemvalue="Python.test11" />
-        <item itemvalue="Python.test10" />
+        <item itemvalue="Python.russian_air" />
+        <item itemvalue="Python.pe" />
+        <item itemvalue="Python.tls_client_socket_no_unencrypted" />
+        <item itemvalue="Python.test2 (1)" />
+        <item itemvalue="Python.text1" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +267,28 @@
       <workItem from="1586254738345" duration="848000" />
       <workItem from="1587001971167" duration="10000" />
       <workItem from="1587098276263" duration="17117000" />
-      <workItem from="1587793854200" duration="5871000" />
+      <workItem from="1587793854200" duration="6856000" />
+      <workItem from="1589678804833" duration="11404000" />
+      <workItem from="1589692408145" duration="2436000" />
+      <workItem from="1590592755121" duration="1914000" />
+      <workItem from="1590600826205" duration="5530000" />
+      <workItem from="1590677753796" duration="3691000" />
+      <workItem from="1590752039379" duration="7768000" />
+      <workItem from="1590761847029" duration="4086000" />
+      <workItem from="1590848440689" duration="4119000" />
+      <workItem from="1590886783880" duration="589000" />
+      <workItem from="1590891102781" duration="4565000" />
+      <workItem from="1590903284700" duration="5800000" />
+      <workItem from="1590928495099" duration="11742000" />
+      <workItem from="1591107887142" duration="2012000" />
+      <workItem from="1591262022897" duration="4881000" />
+      <workItem from="1591357700673" duration="1271000" />
+      <workItem from="1591416312036" duration="1892000" />
+      <workItem from="1591620985864" duration="1953000" />
+      <workItem from="1592060551957" duration="1649000" />
+      <workItem from="1592099058287" duration="5043000" />
+      <workItem from="1592120519269" duration="5546000" />
+      <workItem from="1592137840477" duration="5480000" />
     </task>
     <task id="LOCAL-00001" summary="实验文档">
       <created>1587794639435</created>
@@ -225,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587794639435</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PAC">
+      <created>1587799947823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587799947823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,17 +313,26 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="实验文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="实验文档" />
+    <MESSAGE value="PAC" />
+    <option name="LAST_COMMIT_MESSAGE" value="PAC" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1587794631922">
+    <state x="509" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589683152553">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587794631922" />
-    <state x="490" y="185" key="FileChooserDialogImpl" timestamp="1587794188262">
+    <state x="509" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1589683152553" />
+    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1587799945936">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="490" y="185" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587794188262" />
+    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587799945936" />
+    <state x="490" y="185" key="FileChooserDialogImpl" timestamp="1590902774243">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="490" y="185" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590902774243" />
+    <state x="589" y="313" width="382" height="207" key="Github.CreateGistDialog" timestamp="1590852730278">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="589" y="313" width="382" height="207" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1590852730278" />
     <state x="634" y="308" width="272" height="218" key="Github.ShareDialog" timestamp="1587794370082">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -253,61 +341,83 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="597" y="119" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1587794379012" />
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1587799815049">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1592143597562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587799815049" />
-    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1587799815048">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1592143597562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587799815048" />
-    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1587799815048">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1592143597562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587799815048" />
-    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1587799815049">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1592143597562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587799815049" />
-    <state width="1493" height="342" key="GridCell.Tab.1.bottom" timestamp="1587798221168">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592143597562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="342" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587798221168" />
-    <state width="1493" height="342" key="GridCell.Tab.1.center" timestamp="1587798221167">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592143597562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="342" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1587798221167" />
-    <state width="1493" height="342" key="GridCell.Tab.1.left" timestamp="1587798221167">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592143597562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="342" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1587798221167" />
-    <state width="1493" height="342" key="GridCell.Tab.1.right" timestamp="1587798221167">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592143597562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="342" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587798221167" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
     <state x="211" y="72" key="SettingsEditor" timestamp="1587794190235">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="211" y="72" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1587794190235" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1587794644180">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1587799954880">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587794644180" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587799954880" />
+    <state x="560" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589692683637">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="560" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1589692683637" />
+    <state x="-41" y="175" width="1336" height="623" key="dock-window-1" timestamp="1589680036261">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-41" y="175" width="1336" height="623" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1589680036261" />
+    <state x="151" y="270" width="1336" height="634" key="dock-window-2" timestamp="1589680034038">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="151" y="270" width="1336" height="634" key="dock-window-2/0.0.1536.834@0.0.1536.834" timestamp="1589680034038" />
+    <state x="447" y="24" width="642" height="786" key="find.popup" timestamp="1591263404041">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="24" width="642" height="786" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1591263404041" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homeword$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1585923662456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homeword$test12.coverage" NAME="test12 Coverage Results" MODIFIED="1587118888117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homeword$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1585929121015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/homeword$test14.coverage" NAME="test14 Coverage Results" MODIFIED="1587799783713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/homeword$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1585919169653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homeword$test14.coverage" NAME="test14 Coverage Results" MODIFIED="1587800210112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homeword$tls_client_socket_no_unencrypted.coverage" NAME="tls_client_socket_no_unencrypted Coverage Results" MODIFIED="1591631880491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homeword$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1591109721183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyan5" />
     <SUITE FILE_PATH="coverage/homeword$di.coverage" NAME="di Coverage Results" MODIFIED="1585926954860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homeword$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1589693456861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test4" />
     <SUITE FILE_PATH="coverage/homeword$test.coverage" NAME="test Coverage Results" MODIFIED="1585916451028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homeword$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1586254971421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homeword$test13.coverage" NAME="test13 Coverage Results" MODIFIED="1587798723674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homeword$russian_air.coverage" NAME="russian_air Coverage Results" MODIFIED="1592138263711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据" />
     <SUITE FILE_PATH="coverage/homeword$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1585924567683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homeword$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1589694047997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test4" />
+    <SUITE FILE_PATH="coverage/homeword$text1.coverage" NAME="text1 Coverage Results" MODIFIED="1590913255263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyan5" />
     <SUITE FILE_PATH="coverage/homeword$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1585927294114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homeword$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1585924782733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homeword$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1585928393547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homeword$test11.coverage" NAME="test11 Coverage Results" MODIFIED="1587109734885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homeword$tls_client_socket_no_unencrypted__1_.coverage" NAME="tls_client_socket_no_unencrypted (1) Coverage Results" MODIFIED="1590895184617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shoubiao" />
   </component>
 </project>
