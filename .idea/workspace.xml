@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890c4224-b408-4add-a389-837c455afbaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/大数据分析与挖掘实验四.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/__MACOSX/._data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/__MACOSX/data/._missing_data.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/__MACOSX/data/._model.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/missing_data.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/missing_data_processed.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/model.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/tree.pk1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/实验四/实验四使用数据/data/tree.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air_service_CARGO_AND_PARCELS.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_passenger_air_service_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/Online_Retail.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/Online_Retail2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/[真实或伪造]伪造职位发布预测/fake_job_postings.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/pe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/render.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/上海车牌拍卖价格/Shanghai license plate price - Sheet3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qimo/电信客户流失/WA_Fn-UseC_-Telco-Customer-Churn.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan5/standardization.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan5/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan5/text1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan5/xianglaingtu()4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoubiao/tls_client_socket_no_unencrypted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4/cm_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tls_client_socket_no_unencrypted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homeword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homeword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dimention_reducted.xls" beforeDir="false" afterPath="$PROJECT_DIR$/dimention_reducted.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test14.py" beforeDir="false" afterPath="$PROJECT_DIR$/test14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air.py" beforeDir="false" afterPath="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,19 +55,20 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PycharmProjects\homeword\qimo" />
-      <recent name="D:\PycharmProjects\homeword\doc" />
-      <recent name="D:\PycharmProjects\homeword" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\homeword\qimo\2007-2020年俄罗斯各地机场的货运量及客运量数据" />
       <recent name="D:\PycharmProjects\homeword\qimo" />
       <recent name="D:\PycharmProjects\homeword\shoubiao" />
       <recent name="D:\PycharmProjects\homeword" />
       <recent name="D:\PycharmProjects\homeword\doc" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\homeword\qimo" />
+      <recent name="D:\PycharmProjects\homeword\doc" />
+      <recent name="D:\PycharmProjects\homeword" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.russian_air">
+  <component name="RunManager" selected="Python.russian_air2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="homeword" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,6 +117,9 @@
       <module name="homeword" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -157,6 +127,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="russian_air2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="homeword" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qimo/2007-2020年俄罗斯各地机场的货运量及客运量数据/russian_air2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,28 +171,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiyan5/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="homeword" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shiyan5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shiyan5/text1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.russian_air2" />
         <item itemvalue="Python.russian_air" />
         <item itemvalue="Python.pe" />
         <item itemvalue="Python.tls_client_socket_no_unencrypted" />
         <item itemvalue="Python.test2 (1)" />
-        <item itemvalue="Python.text1" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +258,10 @@
       <workItem from="1592060551957" duration="1649000" />
       <workItem from="1592099058287" duration="5043000" />
       <workItem from="1592120519269" duration="5546000" />
-      <workItem from="1592137840477" duration="5480000" />
+      <workItem from="1592137840477" duration="5607000" />
+      <workItem from="1592144038509" duration="937000" />
+      <workItem from="1592741774752" duration="1416000" />
+      <workItem from="1593353318486" duration="2492000" />
     </task>
     <task id="LOCAL-00001" summary="实验文档">
       <created>1587794639435</created>
@@ -304,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587799947823</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="期末">
+      <created>1592143885899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592143885899</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,17 +294,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="实验文档" />
     <MESSAGE value="PAC" />
-    <option name="LAST_COMMIT_MESSAGE" value="PAC" />
+    <MESSAGE value="期末" />
+    <option name="LAST_COMMIT_MESSAGE" value="期末" />
   </component>
   <component name="WindowStateProjectService">
     <state x="509" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589683152553">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="509" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1589683152553" />
-    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1587799945936">
+    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1592143880343">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587799945936" />
+    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592143880343" />
     <state x="490" y="185" key="FileChooserDialogImpl" timestamp="1590902774243">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -341,46 +322,46 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="597" y="119" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1587794379012" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1592143597562">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1592143996716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1592143597562">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592143996716" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1592143996716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1592143597562">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592143996716" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1592143996716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1592143597562">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592143996716" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1592143996716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592143597562">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592143996716" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592143996716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592143597562">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592143996716" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592143996716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592143597562">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1592143996716" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592143996716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592143597562">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1592143996716" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592143996716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1592143597562" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1592143996716" />
     <state x="211" y="72" key="SettingsEditor" timestamp="1587794190235">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="211" y="72" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1587794190235" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1587799954880">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1592144065685">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587799954880" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592144065685" />
     <state x="560" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589692683637">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -393,10 +374,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="151" y="270" width="1336" height="634" key="dock-window-2/0.0.1536.834@0.0.1536.834" timestamp="1589680034038" />
-    <state x="447" y="24" width="642" height="786" key="find.popup" timestamp="1591263404041">
+    <state x="447" y="24" width="642" height="786" key="find.popup" timestamp="1593353645642">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="447" y="24" width="642" height="786" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1591263404041" />
+    <state x="447" y="24" width="642" height="786" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1593353645642" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homeword$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1585923662456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
